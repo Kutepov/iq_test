@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Europe Normal';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Europe Normal'), local('Europe-Normal'),
+        url(../fonts/europe/europe-normal.woff) format('woff'),
+        url(../fonts/europe/europe-normal.ttf) format('truetype');
+}
