@@ -2,7 +2,7 @@
 
 class Calculator {
 	const MONTH_IN_YEAR = 12;
-	const DAYS_IN_YEAR = 365; 
+	const DAYS_IN_YEAR = 365; //FIXME: Не совсем корректно так делать, т.к. не учитывается високосный год
 	const CURRENCY_RUB = ' руб.';
 	protected $date;
 	protected $sumContribution;
